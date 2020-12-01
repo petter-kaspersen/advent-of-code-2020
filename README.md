@@ -1,5 +1,5 @@
-# Adevent of code
+# Advent of code
 
-This is my Advent of Code solutions for 2020.
+These are my Advent of Code solutions for 2020.
 
-First attempt at learning Go.
+First attempt at learning Go, please no flame (or do flame, that's how we learn).
